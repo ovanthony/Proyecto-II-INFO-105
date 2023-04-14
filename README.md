@@ -1,5 +1,5 @@
 # Proyecto-II-INFO-105
-Proyecto I de Estructura de Datos - UH Participantes de proyecto:
+Proyecto II de Estructura de Datos - UH Participantes de proyecto:
 
 Juarez Grunenberg Diego
 
